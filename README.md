@@ -89,24 +89,58 @@ Campos:
 - `updatedAt`
 
 ### Evidencia de aplicación
-Pantalla principal.
-<img width="500" height="879" alt="image" src="https://github.com/user-attachments/assets/01147b30-53ab-4450-8b2f-7ab1fe147740" />
-Pantalla de registro de usuario.
-<img width="500" height="879" alt="image" src="https://github.com/user-attachments/assets/0eb87e7a-236d-4d99-9618-6b882d5fb30a" />
-Pantalla de inicio de sesión
-<img width="500" height="879" alt="image" src="https://github.com/user-attachments/assets/6568eb40-177d-4750-9eb3-dcff4f6a2bc0" />
-Pantalla principal del catálogo
-<img width="500" height="879" alt="image" src="https://github.com/user-attachments/assets/32e68602-f899-4f5f-b82c-559494b38493" />
-Menú
-<img width="492" height="147" alt="image" src="https://github.com/user-attachments/assets/4b98e3aa-3932-40db-af07-389f0624989a" />
-Pantalla de administración, creación de registros nuevos y edición o elminación de las peliculas ya registradas
-<img width="500" height="879" alt="image" src="https://github.com/user-attachments/assets/459641ae-2c1b-4eb3-8299-c73c1c97084b" />
-Pantalla de edición de una pelicula
-<img width="500" height="879" alt="image" src="https://github.com/user-attachments/assets/0b48abf5-7d13-4470-8f25-526cf5b0d8e8" />
+
+#### Pantalla principal
+
+<img width="500" height="879" alt="Pantalla principal" src="https://github.com/user-attachments/assets/01147b30-53ab-4450-8b2f-7ab1fe147740" />
+
+---
+
+#### Pantalla de registro de usuario
+
+<img width="500" height="879" alt="Pantalla de registro de usuario" src="https://github.com/user-attachments/assets/0eb87e7a-236d-4d99-9618-6b882d5fb30a" />
+
+---
+
+#### Pantalla de inicio de sesión
+
+<img width="500" height="879" alt="Pantalla de inicio de sesión" src="https://github.com/user-attachments/assets/6568eb40-177d-4750-9eb3-dcff4f6a2bc0" />
+
+---
+
+#### Pantalla principal del catálogo
+
+<img width="500" height="879" alt="Pantalla principal del catálogo" src="https://github.com/user-attachments/assets/32e68602-f899-4f5f-b82c-559494b38493" />
+
+---
+
+#### Menú superior
+
+<img width="492" height="147" alt="Menú superior de la aplicación" src="https://github.com/user-attachments/assets/4b98e3aa-3932-40db-af07-389f0624989a" />
+
+---
+
+#### Pantalla de administración
+
+Pantalla para crear registros nuevos, editar películas existentes y eliminar películas registradas.
+
+<img width="500" height="879" alt="Pantalla de administración" src="https://github.com/user-attachments/assets/459641ae-2c1b-4eb3-8299-c73c1c97084b" />
+
+---
+
+#### Pantalla de edición de película
+
+<img width="500" height="879" alt="Pantalla de edición de película" src="https://github.com/user-attachments/assets/0b48abf5-7d13-4470-8f25-526cf5b0d8e8" />
 
 
+## Referencias
 
+Firebase. (s. f.). *Get started with Firebase in your Flutter project*. Firebase Documentation. https://firebase.google.com/docs/flutter/setup
 
+Firebase. (s. f.). *Cloud Firestore*. Firebase Documentation. https://firebase.google.com/docs/firestore
 
+Flutter. (s. f.). *Firebase*. Flutter Documentation. https://docs.flutter.dev/data-and-backend/firebase
+
+Dart. (s. f.). *http package*. Pub.dev. https://pub.dev/packages/http
 
 
